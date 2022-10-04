@@ -1,0 +1,127 @@
+body{
+    background-color: #f4f4f4;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.slide-produk{
+    padding: 0px 12px 0px 12px;
+}
+.slider .slick-next:before, .slider .slick-prev:before{
+    font-size: 30px;
+    color: #101010;
+}
+.top-left{
+    position: absolute;
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.jordan{
+    margin-left: -200px;
+    width: 40%;
+}
+.adidas{
+    margin-left: -250px;
+    width: 80%;
+}
+.btn-banner2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    height: 40px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+}
+.btn-banner2:hover{
+    width: 40%;
+    height: 40px;
+    background: none;
+    background: white;
+    color: #101010;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+}
+.top-left h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: #f4f4f4;
+}
+.banner3 .top-left{
+    position: absolute;
+    width: 30%;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.shop-age .row{
+    justify-content: center;
+
+}
+.shop-age .col-align{
+    margin: 0px 2px 0px 2px;
+}
+.judul-produk{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 100%;
+    max-height: 100%;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.harga-produk{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 90px;
+    height: 30px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}
+.bottom-center{
+    position: absolute;
+    margin-top: 33%;
+    margin-left: 118px;
+}
+.btn-age{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 120px;
+    height: 40px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+.btn-age:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}

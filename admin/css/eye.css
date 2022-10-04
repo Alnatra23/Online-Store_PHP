@@ -1,0 +1,19 @@
+.field-icon {
+    float: right;
+    margin-right: 15px;
+    margin-top: -50px;
+    position: relative;
+    z-index: 2;
+}
+
+.container{
+    padding-top:50px;
+    margin: auto;
+}
+.fa-solid .fa-lock{
+    float: right;
+    margin-right: 15px;
+    margin-top: -900px;
+    position: relative;
+    z-index: 2;
+}

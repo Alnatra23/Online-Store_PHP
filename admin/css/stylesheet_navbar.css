@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #101010;
+}
+.nav-link{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+.fa-user-circle{
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: #FFB200;
+}
